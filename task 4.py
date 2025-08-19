@@ -1,7 +1,3 @@
-"""
-Created on Sun Jun  2 16:05:59 2024
-@author: saketh
-"""
 from tkinter import *
 
 class Calculator:
@@ -102,3 +98,4 @@ elif choice == '2':
     run_command_line_calculator()
 else:
     print("Invalid choice")
+
